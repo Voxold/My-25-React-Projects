@@ -113,7 +113,7 @@ Welcome to **My 25 React Projects** repository! This collection showcases a seri
 
 ## Feedback and Contributions 🤝
 Feel free to explore, provide feedback, or contribute to this repository! You can reach me at :
-<a href="https://skillicons.dev">
+<br><a href="https://skillicons.dev">
                 <a href="https://github.com/Voxold"><img src="https://skillicons.dev/icons?i=github" width='40px' height='40px'/></a>
                 <a href="https://www.linkedin.com/in/voxold/"><img src="https://skillicons.dev/icons?i=linkedin" width='40px' height='40px'/></a>
                 <a href="https://twitter.com/bilal_ajaha"><img src="https://skillicons.dev/icons?i=twitter" width='40px' height='40px'/></a>
